@@ -54,4 +54,4 @@ It allows businesses to take customer orders directly via WhatsApp, check invent
   - Get FAQ (Google Sheets)
 
 ## 🙌 Author
-- Built by [Your Name]
+- Built by [Gomathi Nadarajan]
